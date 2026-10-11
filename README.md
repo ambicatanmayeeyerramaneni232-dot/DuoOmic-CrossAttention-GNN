@@ -1,6 +1,6 @@
 # Duo-Omic Cross-Attention Graph Neural Network (GNN) for Non-Invasive Cholangiocarcinoma Detection
 
-Official repository for the research project submitted to the IRIS National Fair / ISEF (Computational Biology and Bioinformatics category).
+Official repository for the research project submitted to the IRIS National Fair (Computational Biology and Bioinformatics category).
 
 ## Overview
 Cholangiocarcinoma (CCA) is an aggressive biliary tract malignancy characterized by late-stage diagnosis and poor survival rates. Standard diagnostic workflows rely on invasive tissue biopsies or single-modality assays that fail to capture complex multi-omic alterations. 
